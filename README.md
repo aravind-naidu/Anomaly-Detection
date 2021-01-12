@@ -4,6 +4,7 @@ Anomaly detection is a process for identifying unexpected data, event or behavio
 
 ### Techniques Used:
 1. [Z-score with Artificial Neural Network](https://github.com/aravind-naidu/Anomaly-Detection/blob/main/1_Zscore_Anomaly_Detection.ipynb)
+
 [Saved Model (h5 file)](https://github.com/aravind-naidu/Anomaly-Detection/blob/main/zscore_ANN.h5)
 
 **What is Z-score?**
